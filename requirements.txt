@@ -5,3 +5,4 @@ nltk
 pandas
 flask
 gdown
+flask_cors
