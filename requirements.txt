@@ -6,3 +6,4 @@ pandas
 flask
 gdown
 flask_cors
+openpyxl
